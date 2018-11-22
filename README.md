@@ -14,3 +14,10 @@ This folder contains scripts for querying an HR database with advanced SQL comma
 * _Script_Query_HR_2.sql_ contains SQL queries with JOIN operations.  
 
 The data for the HR database was loaded into the Db2 database from CSV files.
+
+## Db Access with Python
+This folder contains Jupyter Notebook scripts that connect to and query an IBM Db2 database.  
+* _connecting_to_Db.ipynb_ connects to a Db2 database on IBM Cloud using Python.  
+* _querying_Db.ipynb_ accesses a Db2 database on IBM Cloud using Python. This script also creates a table, inserts data, queries the data, and retrieves a result set into a Pandas data frame.  
+* _SQL_magic.ipynb_ uses SQL Magic to accesse a Db2 database on IBM Cloud using Python. This script also uses SQL Magic to create a table, insert data, query the data, and retrieve a result set into a Pandas data frame.    
+* _analyzing_data.ipynb_ stores a dataset into a database from a .CSV file using Python. This script also queries and analyzes the data using SQL and Python.   
