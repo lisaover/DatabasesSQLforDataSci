@@ -3,8 +3,11 @@ Databases and SQL for Data Science by IBM on Coursera
 
 The hands-on labs for this course uses the IBM Cloud environment for working with a relational database. The database is created and accessed with IBM Db2 from the web browser.
 
+## sql_functions_pet_sale.ipynb
+This script creates and populates a pet sale table in the Db2 IBM Cloud database and queries the table with built-in functions including AVG, SUM, MAX, ROUND, COUNT, LENGTH, LCASE, UCASE, DISTINCT, CAST, DAY, MONTH, and CURRENT DATE.
+
 ## basic_sql_commands.sql  
-This script contains basic sql commands for dropping tables, creating tables (with a primary key), inserting data into tables, and updating tables.
+This script contains basic sql commands for dropping tables, creating tables (with a primary key), inserting data into tables, and updating tables in the Db2 IBM Cloud database.
 
 ## HR Database  
 This folder contains scripts for querying an HR database with advanced SQL commands.  
