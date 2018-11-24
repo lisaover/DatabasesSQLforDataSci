@@ -7,7 +7,7 @@ The hands-on labs for this course uses the IBM Cloud environment for working wit
 This script contains basic sql commands for dropping tables, creating tables (with a primary key), inserting data into tables, and updating tables in the Db2 IBM Cloud database.
 
 ## sql_functions_pet_sale.ipynb
-This script creates and populates a pet sale table in the Db2 IBM Cloud database and queries the table with built-in functions including AVG, SUM, MAX, ROUND, COUNT, LENGTH, LCASE, UCASE, DISTINCT, CAST, DAY, MONTH, and CURRENT DATE.
+This script uses python to create and populate a pet sale table in the Db2 IBM Cloud database and to query the table with built-in functions including AVG, SUM, MAX, ROUND, COUNT, LENGTH, LCASE, UCASE, DISTINCT, CAST, DAY, MONTH, and CURRENT DATE.
 
 ## HR Database  
 This folder contains scripts for querying an HR database with advanced SQL commands.  
